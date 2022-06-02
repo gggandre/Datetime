@@ -1,6 +1,6 @@
 # La librería Datetime
 
-<img src="matplotlib-logo.png" alt="My cool logo"/>
+<img src="date.jpg" alt="My cool logo"/>
 
 Para manejar fechas en Python se suele utilizar la librería datetime que incorpora los tipos de datos date, time y datetime para representar fechas y funciones para manejarlas. Algunas de las operaciones más habituales que permite son:
 
